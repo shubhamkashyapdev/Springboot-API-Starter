@@ -22,7 +22,7 @@ _THIS SHOULD NOW INCLUDE A NEW DATABASE_ `starter`
 ***
 ### NOW RUN THE PROJECT - `MAIN.java`
 
-##### In IntelliJ IDEA - navigate to MAIN.java File Under - `src > main > java > com.ecommerce`
+##### In IntelliJ IDEA - navigate to MAIN.java File Under - `src > main > java > com.skdev`
 #### In The Top Bar Select `main` and then click on `Play Icon` To Start The Project.
 
 
