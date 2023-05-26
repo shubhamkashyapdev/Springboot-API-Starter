@@ -12,7 +12,7 @@
 List All Databases
 *RUN*: `\list`
 
-CREATE ecommerce DATABASE
+CREATE starter DATABASE
 *RUN*: `CREATE DATABASE starter;`
 
 List All Databases
